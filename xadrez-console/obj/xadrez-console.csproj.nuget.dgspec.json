@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gmaceno\\OneDrive\\Udemy\\AspNetCore\\Aula 12 Projeto de jogo de xadrez\\Program\\xadrez-console-exercise\\xadrez-console\\xadrez-console\\xadrez-console.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gmaceno\\OneDrive\\Udemy\\AspNetCore\\Aula 12 Projeto de jogo de xadrez\\Program\\xadrez-console-exercise\\xadrez-console\\xadrez-console\\xadrez-console.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gmaceno\\OneDrive\\Udemy\\AspNetCore\\Aula 12 Projeto de jogo de xadrez\\Program\\xadrez-console-exercise\\xadrez-console\\xadrez-console\\xadrez-console.csproj",
+        "projectName": "xadrez-console",
+        "projectPath": "C:\\Users\\gmaceno\\OneDrive\\Udemy\\AspNetCore\\Aula 12 Projeto de jogo de xadrez\\Program\\xadrez-console-exercise\\xadrez-console\\xadrez-console\\xadrez-console.csproj",
+        "packagesPath": "C:\\Users\\gmaceno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gmaceno\\OneDrive\\Udemy\\AspNetCore\\Aula 12 Projeto de jogo de xadrez\\Program\\xadrez-console-exercise\\xadrez-console\\xadrez-console\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gmaceno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
