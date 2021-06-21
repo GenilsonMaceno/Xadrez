@@ -3,10 +3,10 @@ C:\Users\gmaceno\OneDrive\Udemy\AspNetCore\Aula 12 Projeto de jogo de xadrez\Pro
 C:\Users\gmaceno\OneDrive\Udemy\AspNetCore\Aula 12 Projeto de jogo de xadrez\Program\xadrez-console-exercise\xadrez-console\xadrez-console\bin\Debug\netcoreapp2.1\xadrez-console.runtimeconfig.dev.json
 C:\Users\gmaceno\OneDrive\Udemy\AspNetCore\Aula 12 Projeto de jogo de xadrez\Program\xadrez-console-exercise\xadrez-console\xadrez-console\bin\Debug\netcoreapp2.1\xadrez-console.dll
 C:\Users\gmaceno\OneDrive\Udemy\AspNetCore\Aula 12 Projeto de jogo de xadrez\Program\xadrez-console-exercise\xadrez-console\xadrez-console\bin\Debug\netcoreapp2.1\xadrez-console.pdb
-C:\Users\gmaceno\OneDrive\Udemy\AspNetCore\Aula 12 Projeto de jogo de xadrez\Program\xadrez-console-exercise\xadrez-console\xadrez-console\obj\Debug\netcoreapp2.1\xadrez-console.csprojAssemblyReference.cache
 C:\Users\gmaceno\OneDrive\Udemy\AspNetCore\Aula 12 Projeto de jogo de xadrez\Program\xadrez-console-exercise\xadrez-console\xadrez-console\obj\Debug\netcoreapp2.1\xadrez-console.AssemblyInfoInputs.cache
 C:\Users\gmaceno\OneDrive\Udemy\AspNetCore\Aula 12 Projeto de jogo de xadrez\Program\xadrez-console-exercise\xadrez-console\xadrez-console\obj\Debug\netcoreapp2.1\xadrez-console.AssemblyInfo.cs
 C:\Users\gmaceno\OneDrive\Udemy\AspNetCore\Aula 12 Projeto de jogo de xadrez\Program\xadrez-console-exercise\xadrez-console\xadrez-console\obj\Debug\netcoreapp2.1\xadrez-console.csproj.CoreCompileInputs.cache
 C:\Users\gmaceno\OneDrive\Udemy\AspNetCore\Aula 12 Projeto de jogo de xadrez\Program\xadrez-console-exercise\xadrez-console\xadrez-console\obj\Debug\netcoreapp2.1\xadrez-console.dll
 C:\Users\gmaceno\OneDrive\Udemy\AspNetCore\Aula 12 Projeto de jogo de xadrez\Program\xadrez-console-exercise\xadrez-console\xadrez-console\obj\Debug\netcoreapp2.1\xadrez-console.pdb
 C:\Users\gmaceno\OneDrive\Udemy\AspNetCore\Aula 12 Projeto de jogo de xadrez\Program\xadrez-console-exercise\xadrez-console\xadrez-console\obj\Debug\netcoreapp2.1\xadrez-console.genruntimeconfig.cache
+C:\Users\gmaceno\OneDrive\Udemy\AspNetCore\Aula 12 Projeto de jogo de xadrez\Program\xadrez-console-exercise\xadrez-console\xadrez-console\obj\Debug\netcoreapp2.1\xadrez-console.csproj.AssemblyReference.cache

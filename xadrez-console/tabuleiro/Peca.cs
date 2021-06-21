@@ -4,7 +4,7 @@ using System.Text;
 
 namespace tabuleiro
 {
-    class Peca
+    abstract class Peca
     {
         public Posicao Posicao { get; set; }
         public Cor Cor { get; protected set; } // Quando protected é acessivel pela class e a subclass
@@ -18,10 +18,12 @@ namespace tabuleiro
             Tab = tab;
             QteMovimentos = 0;
         }
-
         public void IncrementarQteMovimentos()
         {
             QteMovimentos++;
         }
+
+        public abstract bool[,] MovimentosPossiveis();
+
     }
 }
